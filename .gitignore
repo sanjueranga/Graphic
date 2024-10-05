@@ -1,0 +1,38 @@
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build directories
+build/
+Debug/
+Release/
+
+# Object files and static libraries
+*.o
+*.obj
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+*.sln
+*.vcxproj*
+*.xcodeproj
+
+# System files
+.DS_Store
+Thumbs.db
